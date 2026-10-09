@@ -1,6 +1,6 @@
 {
   "name": "festivals",
-  "version": "0.1.0",
+  "version": "0.1.0+20261009.0959",
   "description": "根据主题与元素编写统一美术风格的全中文提示词，先全屏展示，后配套入口按钮；仅交付文字。",
   "skills": "./skills/",
   "interface": {
