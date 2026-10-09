@@ -1,0 +1,21 @@
+{
+  "name": "festivals",
+  "interface": {
+    "displayName": "Festivals"
+  },
+  "plugins": [
+    {
+      "name": "festivals",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kira4094/Festivals.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

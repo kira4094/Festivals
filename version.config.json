@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "targets": [
+    {
+      "path": ".codex-plugin/plugin.json",
+      "kind": "json-field",
+      "field": "version",
+      "template": "${version}+${build}"
+    },
+    {
+      "path": "version.json",
+      "kind": "metadata"
+    }
+  ]
+}
